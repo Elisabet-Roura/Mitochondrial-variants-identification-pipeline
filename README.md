@@ -4,7 +4,7 @@ This repository contains the code developed as part of my Master’s Thesis (TFM
 **“Design of a Pipeline for the Identification of Mitochondrial DNA Variants in a Sudden Cardiac Death Cohort”**  
 (*“Diseño de una Pipeline para la Identificación de Variantes en ADN Mitocondrial de una Cohorte de Muerte Súbita Cardíaca”*).  
 
-Author: Elisabet Roura 
+Author: Elisabet Roura
 Master’s Thesis – Universidad Internacional de la Rioja  
 Academic Year: 2025 
 
